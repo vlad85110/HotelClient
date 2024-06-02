@@ -1,0 +1,8 @@
+.roomType {
+    height: 60px;
+}
+
+.roomType:hover {
+    background: gray;
+}
+
